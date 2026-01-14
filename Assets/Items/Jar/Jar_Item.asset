@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e65cc34f0c31f7d48a40aefd2979d9c8, type: 3}
+  m_Name: Jar_Item
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Jar
+  icon: {fileID: -1549661998, guid: 5f783d3f802702942aa2333011b4c243, type: 3}
+  prefab: {fileID: 9028162400551581023, guid: 1f30dfc1968a2b945ab938bcb7918a1b, type: 3}
+  description: A basic jar from clay
